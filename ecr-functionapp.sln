@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecr-functionapp", "ecr-functionapp.csproj", "{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6FA469-C293-4E8F-8794-72B4B2A50EFC}
+	EndGlobalSection
+EndGlobal
