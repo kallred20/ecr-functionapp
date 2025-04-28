@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecr-functionapp", "ecr-functionapp.csproj", "{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecr-functionapp", "FunctionApp/Functions/ecr-functionapp.csproj", "{B77A8F52-FA2A-15E5-05A7-EA4DC87B1BB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
